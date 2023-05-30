@@ -11,8 +11,8 @@ Fundamentos de Node Js
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Node js**
-| :label: Tecnologias | node e Js.
+| :sparkles: Nome        | **NodeJs**
+| :label: Tecnologias | NodeJs.
 | :rocket: URL         | (https://github.com/IagoMorais/cursoNodeJs)
 
 Ola, me chama Iago Morais. 👨🏻‍💻 cursando 3° semestre - Tec. Analise e Desenvolvimento de Sistemas 👨🏻‍🔬 Experimentando tecnologias. - Entusiasta de Open Source.
